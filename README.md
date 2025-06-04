@@ -56,7 +56,7 @@ The system maintains conversation history and only answers from the provided PDF
 ---
 
 ## 🖼️ System Architecture
-![deepseek_mermaid_20250604_9e3baa](https://github.com/user-attachments/assets/930ff051-e2b1-4925-a819-37fbe0b706dc)
+![Screenshot 2025-06-04 193327](https://github.com/user-attachments/assets/0cd70d59-07c7-48fb-b1af-f50d24bd4cdc)
 
 ---
 
