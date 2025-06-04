@@ -1,5 +1,4 @@
-# AI_tutor
-# 🧠 Brain RAG Assistant: Neuroscience Chatbot
+# 🧠 Neuroscience RAG Assistant Chatbot
 
 The Brain RAG Assistant is an **AI-powered knowledge system** that provides expert answers about the human brain. Powered by **FAISS vector search and Sentence Transformers**, it retrieves precise information from your PDF documents and delivers responses through Groq's ultra-fast LLMs (like LLaMA-3) - all within a beautiful chat Streamlit interface.
 
